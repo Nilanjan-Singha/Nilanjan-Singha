@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=25&pause=1000&color=49F738&width=435&lines=Student+at+NSEC%2C+Kolkata;Fullstack+Developer;AI%2FML+Engineer)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3 and blockchain
-- ⚡ Hobbies: I love to listen music and play outdoor sports
+- 🌱 I’m currently learning ReactJS
+- 🥅 2025 Goals: Learn MERN + DSA till intermediate level
+- ⚡ Upcoming Projects: In Progress
 
 ### Languages and Tools :
 
