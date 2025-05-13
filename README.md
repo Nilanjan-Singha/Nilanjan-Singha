@@ -2,7 +2,7 @@
 
 <h3>I am a</h3>
 
-[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.comfont=Unbounded&weight=600&size=25&pause=1000&color=49F738&width=435&lines=Student+at+NSEC%2C+Kolkata;Fullstack+Developer;AI%2FML+Engineer)](https://git.io/typing-svg))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Unbounded&weight=600&size=25&pause=1000&color=49F738&width=435&lines=Student+at+NSEC%2C+Kolkata;Fullstack+Developer;AI%2FML+Engineer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3 and blockchain
