@@ -1,4 +1,4 @@
-# Namaste, I am Nilanjan Singha
+# Namaste Nerds 👋
 
 <h3>I am a</h3>
 
