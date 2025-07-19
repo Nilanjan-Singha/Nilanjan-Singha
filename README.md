@@ -44,7 +44,7 @@
 
 ### MY TOP PROJECTS 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=25&pause=1000&color=orange&width=435&lines=Coming+Soon;Stay+Tuned+For+Bnagers;
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=25&pause=1000&color=0022F7&width=435&lines=Coming+Soon;Stay+Tuned+For+Bnagers;
 )
 
 
