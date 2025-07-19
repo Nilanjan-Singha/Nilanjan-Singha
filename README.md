@@ -9,8 +9,7 @@
 - 🥅 2025 Goals: Learn MERN + DSA till intermediate level
 - ⚡ Upcoming Projects: In Progress
 
-<br />
-<br />
+---
 
 ### Languages and Tools :
 
