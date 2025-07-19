@@ -50,6 +50,6 @@
 ---
 
 ### BLOGS BY ME
-I write stuff for myself and the community on various topics, sometimes. 
+I write stuff for myself and the community on various topics, sometimes. <br> 
 [Check it out here](https://codewithnil.netlify.app/)
 
