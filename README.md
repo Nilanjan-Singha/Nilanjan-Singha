@@ -47,4 +47,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=25&pause=1000&color=F7E600&width=435&lines=Coming+Soon;Stay+Tuned+For+Bagers;
 )
 
+---
+
+### BLOGS BY ME
+
+<div style="background-color: "red">
+  Read my Blogs Here >>
+</div>
 
