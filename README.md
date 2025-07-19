@@ -50,8 +50,6 @@
 ---
 
 ### BLOGS BY ME
-
-<div style="background-color: "red">
-  Read my Blogs Here >>
-</div>
+I write stuff for myself and the community on various topics, sometimes. 
+[Check it out here](https://codewithnil.netlify.app/)
 
