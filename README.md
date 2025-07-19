@@ -3,7 +3,7 @@
 <h3>I am a</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount-Grid-Single&weight=500&size=25&pause=1000&color=49F738&width=435&lines=Student+at+NSEC%2C+Kolkata;Fullstack+Developer;AI%2FML+Engineer
-)
+)]
 
 - 🌱 I’m currently learning ReactJS
 - 🥅 2025 Goals: Learn MERN + DSA till intermediate level
