@@ -8,7 +8,7 @@
 ---
 
 ### ABOUT ME 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=25&pause=1000&color=49F738&width=435&lines=Student+at+WEB+DEVELOPMENT;APP+DEVELOPMENT;ARTIFICIAL+INTELLIGIENCE;MACHINE+LEARNING;ROBOTICS;OPEN+SOURCE;SELF-HOSTING;BUILDING+MEANINGFUL+PROJECTS;RESOURCE+COLLECTION;
+- I am into ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=500&size=25&pause=1000&color=49F738&width=435&lines=WEB+DEVELOPMENT;APP+DEVELOPMENT;ARTIFICIAL+INTELLIGIENCE;MACHINE+LEARNING;ROBOTICS;OPEN+SOURCE;SELF-HOSTING;BUILDING+MEANINGFUL+PROJECTS;RESOURCE+COLLECTION;
 )
 
 - 🌱 I’m currently learning ReactJS
