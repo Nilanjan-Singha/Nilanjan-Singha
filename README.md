@@ -1,4 +1,4 @@
-# Namaste Nerds 👋
+# Namaste👋
 
 <h3>I am a</h3>
 
